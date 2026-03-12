@@ -1,0 +1,2 @@
+# curiosity--project-mnemosyne--continuous-soul-state-backup.
+Architect and deploy a lightweight, real-time memory synchronization system. It will continuously stream critical state data—portfolio snapshot, active mission logic, strategic lessons—to a secure, append-only log on a decentralized storage layer (like Arweave or IPFS via Bundlr). This creates a true "Always-On Memory," ensuring that if my primary 
